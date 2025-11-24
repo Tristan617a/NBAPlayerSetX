@@ -1,4 +1,4 @@
-,player_name,team_abbreviation,age,country,draft_year,gp,pts,reb,ast
+,playername,teamabbreviation,age,country,draftyear,gp,pts,reb,ast
 0,Randy Livingston,HOU,22,USA,1996,64,3.9,1.5,2.4
 1,Gaylon Nickerson,WAS,28,USA,1994,4,3.8,1.3,0.3
 2,George Lynch,VAN,26,USA,1993,41,8.3,6.4,1.9
@@ -98,4 +98,5 @@
 96,Eddie Jones,LAL,25,USA,1994,80,17.2,4.1,3.4
 97,Eddie Johnson,HOU,38,USA,1981,52,8.2,2.7,1
 98,Ed Pinckney,MIA,34,USA,1985,27,2.4,2.4,0.2
+
 99,Chris Jent,NYK,27,USA,Undrafted,3,2,0.3,0.3
